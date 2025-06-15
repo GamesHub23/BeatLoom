@@ -16,8 +16,21 @@ const playlist = [
     artist: "PHONK",
     audioSrc: "music/Diamante.mp3",
     coverSrc: "covers/Diamante.png"
+  },
+  {
+    title: "2 Phut Hon Funk",
+    artist: "PHONK",
+    audioSrc: "music/2 Phut Hon Funk.mp3",
+    coverSrc: "covers/2 Phut Hon Funk.png"
+  },
+  {
+    title: "Bassline Killer",
+    artist: "PHONK",
+    audioSrc: "music/BasslineKiller.mp3",
+    coverSrc: "covers/BasslineKiller.png"
   }
 ];
+
 
 const playlistElement = document.getElementById("playlist");
 const audio = document.getElementById("audio");
