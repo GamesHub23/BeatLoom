@@ -1,9 +1,9 @@
 const playlist = [
   {
-    title: "Melimi, prima piesă",
-    artist: "Melimi",
-    audioSrc: "music/MelimiPrimaPiesă.mp3",
-    coverSrc: "covers/MelimiPrimaPiesă.jpg"
+    title: "Dia Delicia",
+    artist: "PHONK",
+    audioSrc: "music/DiaDelicia.mp3",
+    coverSrc: "covers/DiaDelicia.jpg"
   },
   {
     title: "ACIDO",
@@ -12,10 +12,10 @@ const playlist = [
     coverSrc: "covers/ACIDO.jpg"
   },
   {
-    title: "MELIMI.RO",
-    artist: "Melimi",
-    audioSrc: "music/melimi.ro.mp3",
-    coverSrc: "covers/melimi.ro.jpg"
+    title: "Montagem Lunar Diamante",
+    artist: "PHONK",
+    audioSrc: "music/Diamante.mp3",
+    coverSrc: "covers/Diamante.jpg"
   }
 ];
 
