@@ -3,19 +3,19 @@ const playlist = [
     title: "Dia Delicia",
     artist: "PHONK",
     audioSrc: "music/DiaDelicia.mp3",
-    coverSrc: "covers/DiaDelicia.jpg"
+    coverSrc: "covers/DiaDelicia.png"
   },
   {
     title: "ACIDO",
     artist: "PHONK",
     audioSrc: "music/ACIDO.mp3",
-    coverSrc: "covers/ACIDO.jpg"
+    coverSrc: "covers/ACIDO.png"
   },
   {
     title: "Montagem Lunar Diamante",
     artist: "PHONK",
     audioSrc: "music/Diamante.mp3",
-    coverSrc: "covers/Diamante.jpg"
+    coverSrc: "covers/Diamante.png"
   }
 ];
 
