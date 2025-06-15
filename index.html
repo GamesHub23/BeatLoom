@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EchoWave - Player Muzical</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>EchoWave</h1>
+    </header>
+
+    <main>
+      <section id="playlist-container">
+        <ul id="playlist"></ul>
+      </section>
+    </main>
+
+    <footer>
+      <div id="player">
+        <img id="cover" src="" alt="Copertă Album" />
+        <div id="track-info">
+          <div id="track-title">Selectează o melodie</div>
+          <div id="track-artist"></div>
+        </div>
+        <audio id="audio" controls></audio>
+        <div id="controls">
+          <button id="prev-btn" aria-label="Previous">
+            <img src="icons/prev.png" alt="Prev" />
+          </button>
+          <button id="play-pause-btn" aria-label="Play/Pause">
+            <img id="play-icon" src="icons/play.png" alt="Play" />
+            <img id="pause-icon" src="icons/pause.png" alt="Pause" style="display:none;" />
+          </button>
+          <button id="next-btn" aria-label="Next">
+            <img src="icons/next.png" alt="Next" />
+          </button>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
