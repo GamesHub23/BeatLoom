@@ -24,10 +24,10 @@ const playlist = [
     coverSrc: "covers/2 Phut Hon Funk.png"
   },
   {
-    title: "Bassline Killer",
+    title: "Montagem Tomada",
     artist: "PHONK",
-    audioSrc: "music/BasslineKiller.mp3",
-    coverSrc: "covers/BasslineKiller.png"
+    audioSrc: "music/Tomada.mp3",
+    coverSrc: "covers/Tomada.png"
   }
 ];
 
