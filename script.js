@@ -17,12 +17,6 @@ const playlist = [
     audioSrc: "music/Diamante.mp3",
     coverSrc: "covers/Diamante.png"
   }
-  {
-    title: "Montagem Lunar Diamante",
-    artist: "PHONK",
-    audioSrc: "music/Diamante.mp3",
-    coverSrc: "covers/Diamante.png"
-  }
 ];
 
 const playlistElement = document.getElementById("playlist");
