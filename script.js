@@ -35,6 +35,18 @@ const playlist = [
     audioSrc: "music/Espaco.mp3",
     coverSrc: "covers/Espaco.png"
   },
+  {
+    title: "Amor Na Praia Super Slowed",
+    artist: "PHONK",
+    audioSrc: "music/Espaco.mp3",
+    coverSrc: "covers/Espaco.png"
+  },
+  {
+    title: "Labubu",
+    artist: "Familia Melimi™",
+    audioSrc: "music/Labubu.mp3",
+    coverSrc: "covers/Labubu.png"
+  },
 ];
 
 
