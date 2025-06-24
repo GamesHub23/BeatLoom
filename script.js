@@ -29,6 +29,13 @@ const playlist = [
     audioSrc: "music/Tomada.mp3",
     coverSrc: "covers/Tomada.png"
   }
+  },
+  {
+    title: "ESPAÇO LIMINAL",
+    artist: "PHONK",
+    audioSrc: "music/Espaco.mp3",
+    coverSrc: "covers/Espaco.png"
+  },
 ];
 
 
