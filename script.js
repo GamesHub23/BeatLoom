@@ -49,7 +49,7 @@ const playlist = [
   },
     {
     title: "Wiskey Cola",
-    artist: "Classic",
+    artist: "Maco Mamuko",
     audioSrc: "music/Cola.mp3",
     coverSrc: "covers/Cola.png"
   },
