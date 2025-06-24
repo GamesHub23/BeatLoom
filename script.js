@@ -47,6 +47,24 @@ const playlist = [
     audioSrc: "music/Labubu.mp3",
     coverSrc: "covers/Labubu.png"
   },
+    {
+    title: "",
+    artist: "PHONK",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
+  {
+    title: "",
+    artist: "PHONK",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
+  {
+    title: "",
+    artist: "",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
 ];
 
 
