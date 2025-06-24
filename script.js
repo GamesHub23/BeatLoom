@@ -48,10 +48,10 @@ const playlist = [
     coverSrc: "covers/Labubu.png"
   },
     {
-    title: "",
-    artist: "PHONK",
-    audioSrc: "music/.mp3",
-    coverSrc: "covers/.png"
+    title: "Wiskey Cola",
+    artist: "Classic",
+    audioSrc: "music/Cola.mp3",
+    coverSrc: "covers/Cola.png"
   },
   {
     title: "",
