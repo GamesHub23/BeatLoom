@@ -38,8 +38,8 @@ const playlist = [
   {
     title: "Amor Na Praia Super Slowed",
     artist: "PHONK",
-    audioSrc: "music/Espaco.mp3",
-    coverSrc: "covers/Espaco.png"
+    audioSrc: "music/Amor.mp3",
+    coverSrc: "covers/Amor.png"
   },
   {
     title: "Labubu",
