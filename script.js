@@ -54,10 +54,10 @@ const playlist = [
     coverSrc: "covers/Cola.png"
   },
   {
-    title: "",
-    artist: "PHONK",
-    audioSrc: "music/.mp3",
-    coverSrc: "covers/.png"
+    title: "Un pahar cu vin",
+    artist: "Valentin nica",
+    audioSrc: "music/Vin.mp3",
+    coverSrc: "covers/Vin.png"
   },
   {
     title: "",
