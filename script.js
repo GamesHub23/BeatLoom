@@ -84,7 +84,6 @@ const playlist = [
     coverSrc: "covers/.png"
   },
 ];
-];
 
 
 const playlistElement = document.getElementById("playlist");
