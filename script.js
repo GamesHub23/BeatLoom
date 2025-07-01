@@ -47,7 +47,7 @@ const playlist = [
     audioSrc: "music/Labubu.mp3",
     coverSrc: "covers/Labubu.png"
   },
-    {
+  {
     title: "Wiskey Cola",
     artist: "Maco Mamuko",
     audioSrc: "music/Cola.mp3",
@@ -60,11 +60,30 @@ const playlist = [
     coverSrc: "covers/Vin.png"
   },
   {
+    title: "Baba Vanga",
+    artist: "F. Charm",
+    audioSrc: "music/Baba.mp3",
+    coverSrc: "covers/Baba.png"
+  },
+  {
+    title: "La nunta asta",
+    artist: "Lia Tăburcean",
+    audioSrc: "music/Nunta.mp3",
+    coverSrc: "covers/Nunta.png"
+  },
+  {
     title: "",
     artist: "",
     audioSrc: "music/.mp3",
     coverSrc: "covers/.png"
   },
+  {
+    title: "",
+    artist: "",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
+];
 ];
 
 
