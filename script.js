@@ -42,6 +42,18 @@ const playlist = [
     coverSrc: "covers/Amor.png"
   },
   {
+    title: "Funk de Baleza (slowed)",
+    artist: "PHONK",
+    audioSrc: "music/Funk de baleza.mp3",
+    coverSrc: "covers/Baleza.png"
+  },
+  {
+    title: "Vem Vem.mp3",
+    artist: "PHONK",
+    audioSrc: "music/Vem Vem.mp3",
+    coverSrc: "covers/Vem.png"
+  },
+  {
     title: "Labubu",
     artist: "Familia Melimi™",
     audioSrc: "music/Labubu.mp3",
@@ -70,6 +82,18 @@ const playlist = [
     artist: "Lia Tăburcean",
     audioSrc: "music/Nunta.mp3",
     coverSrc: "covers/Nunta.png"
+  },
+  {
+    title: "",
+    artist: "",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
+  {
+    title: "",
+    artist: "",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
   },
   {
     title: "",
