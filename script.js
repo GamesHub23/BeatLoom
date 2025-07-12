@@ -50,7 +50,7 @@ const playlist = [
   {
     title: "Vem Vem.mp3",
     artist: "PHONK",
-    audioSrc: "music/Vem Vem.mp3",
+    audioSrc: "music/Vem Vem (slowed).mp3",
     coverSrc: "covers/Vem.png"
   },
   {
