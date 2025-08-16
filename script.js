@@ -84,10 +84,10 @@ const playlist = [
     coverSrc: "covers/Nunta.png"
   },
   {
-    title: "",
-    artist: "",
-    audioSrc: "music/.mp3",
-    coverSrc: "covers/.png"
+    title: "Illegal",
+    artist: "PinkPanthress",
+    audioSrc: "music/PinkPantheress - Illegal (Official Video).mp3",
+    coverSrc: "covers/Illegal.png"
   },
   {
     title: "",
