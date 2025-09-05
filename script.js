@@ -53,6 +53,24 @@ const playlist = [
     audioSrc: "music/Vem Vem (slowed).mp3",
     coverSrc: "covers/Vem.png"
   },
+    {
+    title: "Montagem Supersonic",
+    artist: "PHONK",
+    audioSrc: "music/SpotiMate.io - Montagem Supersonic - KHAOS_ Jmilton.mp3",
+    coverSrc: "covers/Super.png"
+  },
+  {
+    title: "",
+    artist: "",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
+  {
+    title: "",
+    artist: "",
+    audioSrc: "music/.mp3",
+    coverSrc: "covers/.png"
+  },
   {
     title: "Labubu",
     artist: "Familia Melimi™",
